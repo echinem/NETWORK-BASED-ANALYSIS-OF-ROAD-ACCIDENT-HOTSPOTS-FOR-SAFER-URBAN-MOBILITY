@@ -7,3 +7,5 @@ In this work, intersections will be represented as nodes and roads as edges, for
 The expected outcome is a ranked list and visual map of high-risk intersections along with clusters of roads requiring immediate attention. These insights can help traffic police prioritize enforcement, guide city planners in designing safer road layouts, and inform awareness campaigns targeting the most vulnerable areas.
 
 By combining accident data with social network analysis methodologies, this project provides a data-driven framework for enhancing road safety and reducing accident rates, ultimately contributing to safer and more sustainable urban mobility.
+
+> Dataset: https://www.kaggle.com/datasets/data125661/india-road-accident-dataset
