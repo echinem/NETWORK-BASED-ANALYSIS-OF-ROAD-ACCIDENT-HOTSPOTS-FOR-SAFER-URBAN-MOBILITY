@@ -1,4 +1,4 @@
-# NETWORK-BASED-ANALYSIS-OF-ROAD-ACCIDENT-HOTSPOTS-FOR-SAFER-URBAN-MOBILITY
+# Network-Based Analysis of Road Accident Hotspots for Safer Urban Mobility
 
 Road accidents remain a critical public safety concern, especially in urban areas where traffic density is high and infrastructure is often stressed. This project aims to analyze accident-prone intersections using a graph-based approach to identify high-risk zones and provide actionable insights for traffic management and city planning.
 
